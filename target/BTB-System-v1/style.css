@@ -1,7 +1,5 @@
 
 
-
-
 *{
     margin: 0;
     padding: 0;
@@ -52,7 +50,7 @@ a{
 }
 
 .header .row{
-    margin-top: 70px;
+    margin-top: 10px !important;
 }
 .header{
     width: 100%;
