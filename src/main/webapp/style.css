@@ -61,6 +61,7 @@ a{
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
+    width: 100%;
 }
 .cols-2{
     flex-basis: 50%;
